@@ -3,14 +3,17 @@ Pothole Counter
 A simple, lightweight web application that helps you keep track of the number of potholes you encounter during your daily commute.
 
 Live Link:- https://potholescounter.netlify.app/
+
 🚗 About
 Born out of the frustration of losing count of potholes during my commute, this app provides a straightforward solution for tracking road conditions. Whether you're a concerned citizen, data enthusiast, or simply someone who likes to count things, Pothole Counter has you covered.
+
 ✨ Features
 
 Simple counter interface: Easily increment/decrement your pothole count
 Session persistence: Your count remains even if you refresh the page
 Responsive design: Works on mobile devices for on-the-go counting
 Reset functionality: Start a new counting session with one click
+
 
 🛠️ Technologies Used
 
